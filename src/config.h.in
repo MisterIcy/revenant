@@ -1,0 +1,2 @@
+#define revenant_VERSION_MAJOR @revenant_VERSION_MAJOR@
+#define revenant_VERSION_MINOR @revenant_VERSION_MINOR@
